@@ -3,14 +3,14 @@ public class Calculator {
 public static void main(String[] args){
 
   int a = 20;
+  int odingoNo = 20;
+  int amosNo = 70;
   int sum = 0;
   int mwangemiNO = 17;
   int elvisNo = 3;
-  sum = a + mwangemiNO + elvisNo;
-
-
-
-
+  int mwangemiNo = 17;
+  int strattonNo = 25;
+  sum = a + mwangemiNo + strattonNo +amosNo + odingoNo + elvisNo ;
   System.out.println("Sum: "+sum);
 
 }
