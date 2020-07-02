@@ -3,10 +3,12 @@ public class Calculator {
 public static void main(String[] args){
 
   int a = 20;
-  int amos = 0;
+  int amosNo = 70;
+  int sum = 0;
+  int mwangemiNo = 17;
+  int strattonNo = 25;
 
-
-  amos = a;
+  sum = a + mwangemiNo + strattonNo +amosNo;
 
   System.out.println("Sum: "+amos);
 
