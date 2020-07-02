@@ -4,12 +4,14 @@ public static void main(String[] args){
 
   int a = 20;
   int odingoNo = 20;
+  int amosNo = 70;
   int sum = 0;
+  int mwangemiNo = 17;
+  int strattonNo = 25;
 
+  sum = a + mwangemiNo + strattonNo +amosNo + odingoNo ;
 
-  sum = a + odingoNo;
-
-  System.out.println("Sum: "+sum);
+  System.out.println("Sum: "+amos);
 
 }
 
